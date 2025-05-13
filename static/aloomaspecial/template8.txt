@@ -1,0 +1,41 @@
+    <br><br><br><br>
+    <!-- contact template 8 just 1 subtopic -->
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma">aloomaidheader</h2>
+                <p class="template4 palooma">aloomaidparagraph
+                </p>
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;">Frequently Asked Questions in #State</h2>
+                <h4 class="template4 palooma">How much does it cost to rent a porta potty in #State?
+                </h4>
+                <p>Prices depend on unit type, rental duration, and location. Standard units start around $150–$250/week. Call for exact pricing.</p>
+                <h4 class="template4 palooma">How many toilets do I need for my event or site?
+                </h4>
+                <p>A typical recommendation is 1 unit per 50 people for events or 1 unit per 10 workers for job sites. We’ll help you estimate.</p>
+                <h4 class="template4 palooma">Do you offer same-day porta potty delivery?
+                </h4>
+                <p>Yes, based on availability. We maintain stock for last-minute rentals and emergencies. Call now to check.</p>
+                <h4 class="template4 palooma">Are your units cleaned regularly?
+                </h4>
+                <p>Absolutely. Every unit is cleaned before delivery and maintained weekly or more often, depending on your needs.</p>
+                <h4 class="template4 palooma">What if I need ADA-compliant options?
+                </h4>
+                <p>We offer ADA porta potty units and trailers that meet all federal accessibility standards.</p>
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
